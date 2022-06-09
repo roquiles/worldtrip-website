@@ -1,0 +1,61 @@
+/* eslint-disable @next/next/no-img-element */
+
+import { useContext, useRef } from "react";
+import { Swiper, SwiperSlide } from "swiper/react";
+import { Navigation, EffectFade, Pagination } from "swiper";
+import { Box, Flex, Text } from "@chakra-ui/react";
+import ContinentsContext from "../../contexts/Continents/context";
+
+import "swiper/css";
+import "swiper/css/navigation";
+import "swiper/css/pagination";
+import "swiper/css/effect-fade";
+
+export default function Slider() {
+  const { continents } = useContext(ContinentsContext);
+
+  return (
+    <Box w="1240px" h="450px" overflow="hidden">
+      <Swiper
+        modules={[Navigation, EffectFade, Pagination]}
+        navigation
+        pagination={{ clickable: true }}
+        effect={"fade"}
+        speed={800}
+        slidesPerView={1}
+        loop
+      >
+        {continents.map((continent) => (
+          <SwiperSlide key={continent.id}>
+            <Flex
+              position="relative"
+              align="center"
+              justify="center"
+              height="450px"
+              w="1240px"
+            >
+              <img
+                src={continent.imageURL}
+                alt={continent.name}
+                style={{ filter: "brightness(0.7)", objectFit: "cover" }}
+              />
+              <Flex
+                position="absolute"
+                align="center"
+                justify="center"
+                direction="column"
+              >
+                <Text fontWeight="700" fontSize="48px" color="gray.50">
+                  {continent.name}
+                </Text>
+                <Text color="gray.200" fontSize="24px" fontWeight="700">
+                  {continent.description}
+                </Text>
+              </Flex>
+            </Flex>
+          </SwiperSlide>
+        ))}
+      </Swiper>
+    </Box>
+  );
+}
