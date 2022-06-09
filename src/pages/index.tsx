@@ -1,10 +1,9 @@
-import type { NextPage } from "next";
 import Header from "../components/Header";
 import Banner from "../components/Banner";
 import TravelTypes from "../components/TravelTypes";
 import CallToAction from "../components/CallToAction";
 
-const Home: NextPage = () => {
+export default function Home(): JSX.Element {
   return (
     <>
       <Header />
@@ -13,6 +12,4 @@ const Home: NextPage = () => {
       <CallToAction />
     </>
   );
-};
-
-export default Home;
+}
