@@ -4,37 +4,37 @@
       "id": 1,
       "name": "América do Norte",
       "description": "Desbrave os Estados Unidos, Canadá e México",
-      "imageURL": "https://unsplash.com/photos/ZwsoAaOcE_0"
+      "imageURL": "https://images.unsplash.com/photo-1543434732-1a9763ae7d35?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80"
     },
     {
       "id": 2,
       "name": "América do Sul",
       "description": "O paraíso tropical",
-      "imageURL": "https://unsplash.com/photos/GFOnOrv-t6w"
+      "imageURL": "https://images.unsplash.com/photo-1529476488885-3159d45ab78b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80"
     },
     {
       "id": 3,
       "name": "Ásia",
       "description": "O maior dos continentes",
-      "imageURL": "https://unsplash.com/photos/9bdt03k4ujw"
+      "imageURL": "https://images.unsplash.com/photo-1464817739973-0128fe77aaa1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80"
     },
     {
       "id": 4,
       "name": "África",
       "description": "O berço da humanidade",
-      "imageURL": "https://unsplash.com/photos/kfxEUCTUeyg"
+      "imageURL": "https://images.unsplash.com/photo-1523805009345-7448845a9e53?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2944&q=80"
     },
     {
       "id": 5,
       "name": "Europa",
       "description": "O continente mais antigo",
-      "imageURL": "https://unsplash.com/photos/k7qpbbbezvE"
+      "imageURL": "https://images.unsplash.com/photo-1600454021970-351eff4a6554?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2769&q=80"
     },
     {
       "id": 6,
       "name": "Oceania",
       "description": "O menor e mais jovem continente",
-      "imageURL": "https://unsplash.com/photos/JmuyB_LibRo"
+      "imageURL": "https://images.unsplash.com/photo-1624138784614-87fd1b6528f8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2833&q=80"
     }
   ]
 }
