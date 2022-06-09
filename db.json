@@ -3,12 +3,38 @@
     {
       "id": 1,
       "name": "América do Norte",
-      "description": "Desbrave os Estados Unidos, Canadá e México"
+      "description": "Desbrave os Estados Unidos, Canadá e México",
+      "imageURL": "https://unsplash.com/photos/ZwsoAaOcE_0"
     },
     {
       "id": 2,
       "name": "América do Sul",
-      "description": "O paraíso da fauna e da flora"
+      "description": "O paraíso tropical",
+      "imageURL": "https://unsplash.com/photos/GFOnOrv-t6w"
+    },
+    {
+      "id": 3,
+      "name": "Ásia",
+      "description": "O maior dos continentes",
+      "imageURL": "https://unsplash.com/photos/9bdt03k4ujw"
+    },
+    {
+      "id": 4,
+      "name": "África",
+      "description": "O berço da humanidade",
+      "imageURL": "https://unsplash.com/photos/kfxEUCTUeyg"
+    },
+    {
+      "id": 5,
+      "name": "Europa",
+      "description": "O continente mais antigo",
+      "imageURL": "https://unsplash.com/photos/k7qpbbbezvE"
+    },
+    {
+      "id": 6,
+      "name": "Oceania",
+      "description": "O menor e mais jovem continente",
+      "imageURL": "https://unsplash.com/photos/JmuyB_LibRo"
     }
   ]
 }
