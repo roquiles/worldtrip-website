@@ -1,14 +1,14 @@
 {
-  "Post": {
-    "title": { "string": {} },
-    "comments": {
-      "hasMany": "Comment"
+  "continentes": [
+    {
+      "id": 1,
+      "name": "América do Norte",
+      "description": "Desbrave os Estados Unidos, Canadá e México"
+    },
+    {
+      "id": 2,
+      "name": "América do Sul",
+      "description": "O paraíso da fauna e da flora"
     }
-  },
-  "Comment": {
-    "body": { "string": {} },
-    "post": {
-      "belongsTo": "Post"
-    }
-  }
+  ]
 }
