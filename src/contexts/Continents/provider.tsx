@@ -10,6 +10,7 @@ export interface ContinentType {
   name: string;
   description: string;
   imageURL: string;
+  bannerURL: string;
 }
 
 export default function ContinentsProvider({
