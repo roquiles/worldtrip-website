@@ -1,9 +1,10 @@
 /* eslint-disable @next/next/no-img-element */
 
-import { useContext, useRef } from "react";
+import { useContext } from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation, EffectFade, Pagination } from "swiper";
-import { Box, Flex, Text } from "@chakra-ui/react";
+import { Box, Flex, Text, Link as ChakraLink } from "@chakra-ui/react";
+import Link from "next/link";
 import ContinentsContext from "../../contexts/Continents/context";
 
 import "swiper/css";
@@ -39,19 +40,22 @@ export default function Slider() {
                 alt={continent.name}
                 style={{ filter: "brightness(0.7)", objectFit: "cover" }}
               />
-              <Flex
-                position="absolute"
-                align="center"
-                justify="center"
-                direction="column"
-              >
-                <Text fontWeight="700" fontSize="48px" color="gray.50">
-                  {continent.name}
-                </Text>
-                <Text color="gray.200" fontSize="24px" fontWeight="700">
-                  {continent.description}
-                </Text>
-              </Flex>
+
+              <Link href={`/${continent.id}`} passHref>
+                <ChakraLink
+                  display="flex"
+                  position="absolute"
+                  alignItems="center"
+                  flexDirection="column"
+                >
+                  <Text fontWeight="700" fontSize="48px" color="gray.50">
+                    {continent.name}
+                  </Text>
+                  <Text color="gray.200" fontSize="24px" fontWeight="700">
+                    {continent.description}
+                  </Text>
+                </ChakraLink>
+              </Link>
             </Flex>
           </SwiperSlide>
         ))}
