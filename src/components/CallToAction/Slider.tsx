@@ -52,7 +52,7 @@ export default function Slider() {
                     {continent.name}
                   </Text>
                   <Text color="gray.200" fontSize="24px" fontWeight="700">
-                    {continent.description}
+                    {continent.subtitle}
                   </Text>
                 </ChakraLink>
               </Link>
