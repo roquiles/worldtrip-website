@@ -14,52 +14,62 @@
         {
           "name": "Nova York",
           "country": "Estados Unidos da América",
-          "imageURL": "https://images.unsplash.com/photo-1485871981521-5b1fd3805eee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1485871981521-5b1fd3805eee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-United-States-of-America.png"
         },
         {
           "name": "Miami",
           "country": "Estados Unidos da América",
-          "imageURL": "https://images.unsplash.com/photo-1589083130544-0d6a2926e519?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1589083130544-0d6a2926e519?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-United-States-of-America.png"
         },
         {
           "name": "Los Angeles",
           "country": "Estados Unidos da América",
-          "imageURL": "https://images.unsplash.com/photo-1580655653885-65763b2597d0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1580655653885-65763b2597d0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-United-States-of-America.png"
         },
         {
           "name": "Las Vegas",
           "country": "Estados Unidos da América",
-          "imageURL": "https://images.unsplash.com/photo-1508768022758-cb7384c00335?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1508768022758-cb7384c00335?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-United-States-of-America.png"
         },
         {
           "name": "Cancún",
           "country": "México",
-          "imageURL": "https://images.unsplash.com/photo-1616423841125-8307665a0469?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1616423841125-8307665a0469?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Mexico.png"
         },
         {
           "name": "Orlando",
           "country": "Estados Unidos da América",
-          "imageURL": "https://images.unsplash.com/photo-1618945372420-2470ece5277c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1618945372420-2470ece5277c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-United-States-of-America.png"
         },
         {
           "name": "Toronto",
           "country": "Canadá",
-          "imageURL": "https://images.unsplash.com/photo-1546614409-810f10108b74?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2066&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1546614409-810f10108b74?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2066&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Canada.png"
         },
         {
           "name": "Vancouver",
           "country": "Canadá",
-          "imageURL": "https://images.unsplash.com/photo-1531610373189-61a2afd654e4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1775&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1531610373189-61a2afd654e4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1775&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Canada.png"
         },
         {
           "name": "San Francisco",
           "country": "Estados Unidos da América",
-          "imageURL": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-United-States-of-America.png"
         },
         {
           "name": "Honolulu",
           "country": "Estados Unidos da América",
-          "imageURL": "https://images.unsplash.com/photo-1573992554018-83e7853bd45f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1624&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1573992554018-83e7853bd45f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1624&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-United-States-of-America.png"
         }
       ]
     },
@@ -77,17 +87,20 @@
         {
           "name": "Buenos Aires",
           "country": "Argentina",
-          "imageURL": "https://images.unsplash.com/photo-1593014109521-48ea09f22592?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1593014109521-48ea09f22592?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Argentina.png"
         },
         {
           "name": "Lima",
           "country": "Peru",
-          "imageURL": "https://images.unsplash.com/photo-1577587230708-187fdbef4d91?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1771&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1577587230708-187fdbef4d91?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1771&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Peru.png"
         },
         {
           "name": "Rio de Janeiro",
           "country": "Brasil",
-          "imageURL": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Brazil.png"
         }
       ]
     },
@@ -105,52 +118,62 @@
         {
           "name": "Hong Kong",
           "country": "China",
-          "imageURL": "https://images.unsplash.com/photo-1518599807935-37015b9cefcb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1518599807935-37015b9cefcb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-China.png"
         },
         {
           "name": "Bangkok",
           "country": "Tailândia",
-          "imageURL": "https://images.unsplash.com/photo-1578167635648-df79e1565908?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1578167635648-df79e1565908?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Thailand.png"
         },
         {
           "name": "Macau",
           "country": "China",
-          "imageURL": "https://images.unsplash.com/photo-1584640962068-f860edeb6f12?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1584640962068-f860edeb6f12?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-China.png"
         },
         {
           "name": "Cingapura",
           "country": "Cingapura",
-          "imageURL": "https://images.unsplash.com/photo-1542114740389-9b46fb1e5be7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1542114740389-9b46fb1e5be7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Singapore.png"
         },
         {
           "name": "Dubai",
           "country": "Emirados Árabes Unidos",
-          "imageURL": "https://images.unsplash.com/photo-1544092683-c0c9ebb368e5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1751&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1544092683-c0c9ebb368e5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1751&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-United-Arab-Emirates.png"
         },
         {
           "name": "Kuala Lumpur",
           "country": "Malásia",
-          "imageURL": "https://images.unsplash.com/flagged/photo-1560505455-11cee7a131b0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1640&q=80"
+          "imageURL": "https://images.unsplash.com/flagged/photo-1560505455-11cee7a131b0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1640&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Malaysia.png"
         },
         {
           "name": "Istambul",
           "country": "Turquia",
-          "imageURL": "https://images.unsplash.com/flagged/photo-1558113118-e42e558b352a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80"
+          "imageURL": "https://images.unsplash.com/flagged/photo-1558113118-e42e558b352a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Turkey.png"
         },
         {
           "name": "Déli",
           "country": "Índia",
-          "imageURL": "https://images.unsplash.com/photo-1597040663342-45b6af3d91a5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1597040663342-45b6af3d91a5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-India.png"
         },
         {
           "name": "Antália",
           "country": "Turquia",
-          "imageURL": "https://images.unsplash.com/photo-1593238739364-18cfde30e522?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2080&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1593238739364-18cfde30e522?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2080&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Turkey.png"
         },
         {
           "name": "Shenzhen",
           "country": "China",
-          "imageURL": "https://images.unsplash.com/photo-1620571514293-f2178438e96d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1620571514293-f2178438e96d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-China.png"
         }
       ]
     },
@@ -168,22 +191,26 @@
         {
           "name": "Cairo",
           "country": "Egito",
-          "imageURL": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Egypt.png"
         },
         {
           "name": "Johanesburgo",
           "country": "África do Sul",
-          "imageURL": "https://images.unsplash.com/photo-1577948000111-9c970dfe3743?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1577948000111-9c970dfe3743?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-South-Africa.png"
         },
         {
           "name": "Marraquexe",
           "country": "Marrocos",
-          "imageURL": "https://images.unsplash.com/photo-1545041552-becc2efcccc4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1545041552-becc2efcccc4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Morocco.png"
         },
         {
           "name": "Hurghada",
           "country": "Egito",
-          "imageURL": "https://images.unsplash.com/photo-1601196338693-2d103fcc2d61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1601196338693-2d103fcc2d61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Egypt.png"
         }
       ]
     },
@@ -201,52 +228,62 @@
         {
           "name": "Londres",
           "country": "Inglaterra",
-          "imageURL": "https://images.unsplash.com/photo-1486299267070-83823f5448dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1771&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1486299267070-83823f5448dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1771&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-United-Kingdom.png"
         },
         {
           "name": "Paris",
           "country": "França",
-          "imageURL": "https://images.unsplash.com/photo-1605701877331-645ad05dcb97?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1605701877331-645ad05dcb97?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-France.png"
         },
         {
           "name": "Roma",
           "country": "Itália",
-          "imageURL": "https://images.unsplash.com/photo-1515542622106-78bda8ba0e5b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1515542622106-78bda8ba0e5b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Italy.png"
         },
         {
           "name": "Praga",
           "country": "República Tcheca",
-          "imageURL": "https://images.unsplash.com/photo-1519677100203-a0e668c92439?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1519677100203-a0e668c92439?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Czech-Republic.png"
         },
         {
           "name": "Amsterdam",
           "country": "Holanda",
-          "imageURL": "https://images.unsplash.com/photo-1459679749680-18eb1eb37418?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1459679749680-18eb1eb37418?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Netherlands.png"
         },
         {
           "name": "Barcelona",
           "country": "Espanha",
-          "imageURL": "https://images.unsplash.com/photo-1578912996078-305d92249aa6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1771&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1578912996078-305d92249aa6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1771&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Spain.png"
         },
         {
           "name": "Milão",
           "country": "Itália",
-          "imageURL": "https://images.unsplash.com/photo-1516296270211-f3ae5494e65d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1550&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1516296270211-f3ae5494e65d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1550&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Italy.png"
         },
         {
           "name": "Viena",
           "country": "Áustria",
-          "imageURL": "https://images.unsplash.com/photo-1558555574-2a1a6e347cf2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1771&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1558555574-2a1a6e347cf2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1771&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Austria.png"
         },
         {
           "name": "Berlim",
           "country": "Alemanha",
-          "imageURL": "https://images.unsplash.com/photo-1509136561942-7d8663edaaa2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1776&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1509136561942-7d8663edaaa2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1776&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Germany.png"
         },
         {
           "name": "Atenas",
           "country": "Grécia",
-          "imageURL": "https://images.unsplash.com/photo-1555993539-1732b0258235?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1555993539-1732b0258235?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Greece.png"
         }
       ]
     },
@@ -264,17 +301,20 @@
         {
           "name": "Sydney",
           "country": "Australia",
-          "imageURL": "https://images.unsplash.com/photo-1523428096881-5bd79d043006?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1523428096881-5bd79d043006?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Australia.png"
         },
         {
           "name": "Melbourne",
           "country": "Australia",
-          "imageURL": "https://images.unsplash.com/photo-1595434971780-79d5c20c5090?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1595434971780-79d5c20c5090?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Australia.png"
         },
         {
           "name": "Auckland",
           "country": "Nova Zelândia",
-          "imageURL": "https://images.unsplash.com/photo-1582535757556-7b9f511020e8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80"
+          "imageURL": "https://images.unsplash.com/photo-1582535757556-7b9f511020e8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80",
+          "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-New-Zealand.png"
         }
       ]
     }
