@@ -6,7 +6,10 @@
       "subtitle": "Desbrave os Estados Unidos, Canadá e México",
       "imageURL": "https://images.unsplash.com/photo-1543434732-1a9763ae7d35?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80",
       "bannerURL": "https://images.unsplash.com/photo-1580755704223-cb95b31e444c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80",
-      "description": "A América do Norte está localizada no extremo norte das Américas e é composta por apenas três países: Estados Unidos, Canadá e México, além de territórios de domínios europeus, como a Groelândia (pertencente ao Reino da Dinamarca, com representação no parlamento) e Bermudas (dependência britânica)."
+      "description": "A América do Norte está localizada no extremo norte das Américas e é composta por apenas três países: Estados Unidos, Canadá e México, além de territórios de domínios europeus, como a Groelândia (pertencente ao Reino da Dinamarca, com representação no parlamento) e Bermudas (dependência britânica).",
+      "countriesCount": 3,
+      "languagesCount": 3,
+      "listedOnTop100": 10
     },
     {
       "id": 2,
@@ -14,7 +17,10 @@
       "subtitle": "O paraíso tropical",
       "imageURL": "https://images.unsplash.com/photo-1529476488885-3159d45ab78b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80",
       "bannerURL": "https://images.unsplash.com/photo-1543958871-ccfa180a0c39?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1776&q=80",
-      "description": "Atravessado pela Linha do Equador e pelo Trópico de Capricórnio, o continente possui a segunda maior cordilheira do mundo na Região Andina que se estende desde a Venezuela até o Chile e a Argentina. No vale do Amazonas encontramos a maior bacia hidrográfica do mundo, e também, a região de maior biodiversidade: a floresta Amazônica."
+      "description": "Atravessado pela Linha do Equador e pelo Trópico de Capricórnio, o continente possui a segunda maior cordilheira do mundo na Região Andina que se estende desde a Venezuela até o Chile e a Argentina. No vale do Amazonas encontramos a maior bacia hidrográfica do mundo, e também, a região de maior biodiversidade: a floresta Amazônica.",
+      "countriesCount": 13,
+      "languagesCount": 420,
+      "listedOnTop100": 3
     },
     {
       "id": 3,
@@ -22,7 +28,10 @@
       "subtitle": "O maior dos continentes",
       "imageURL": "https://images.unsplash.com/photo-1464817739973-0128fe77aaa1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80",
       "bannerURL": "https://images.unsplash.com/photo-1558980971-97f50d0fed00?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1606&q=80",
-      "description": "A Ásia é o maior continente em área terrestre do mundo, estando boa parte do continente localizado no Hemisfério Norte. Além de ser o mais extenso, é também o mais populoso, habitando nele cerca de três quintos da população mundial. A Ásia é multicultural, abrigando diversas culturas, etnias, religiões e tradições."
+      "description": "A Ásia é o maior continente em área terrestre do mundo, estando boa parte do continente localizado no Hemisfério Norte. Além de ser o mais extenso, é também o mais populoso, habitando nele cerca de três quintos da população mundial. A Ásia é multicultural, abrigando diversas culturas, etnias, religiões e tradições.",
+      "countriesCount": 50,
+      "languagesCount": 2000,
+      "listedOnTop100": 51
     },
     {
       "id": 4,
@@ -30,7 +39,10 @@
       "subtitle": "O berço da humanidade",
       "imageURL": "https://images.unsplash.com/photo-1523805009345-7448845a9e53?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2944&q=80",
       "bannerURL": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
-      "description": "O continente africano possui uma das maiores diversidades culturais do planeta. Na chamada África Branca, ao norte, predominam os povos caucasóides e semitas e na chamada África Negra, ao sul do Deserto do Saara, encontram-se os povos pigmeus, bosquímanos, hotentotes, sudaneses e os bantos."
+      "description": "O continente africano possui uma das maiores diversidades culturais do planeta. Na chamada África Branca, ao norte, predominam os povos caucasóides e semitas e na chamada África Negra, ao sul do Deserto do Saara, encontram-se os povos pigmeus, bosquímanos, hotentotes, sudaneses e os bantos.",
+      "countriesCount": 54,
+      "languagesCount": 2000,
+      "listedOnTop100": 4
     },
     {
       "id": 5,
@@ -38,7 +50,10 @@
       "subtitle": "O continente mais antigo",
       "imageURL": "https://images.unsplash.com/photo-1600454021970-351eff4a6554?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2769&q=80",
       "bannerURL": "https://images.unsplash.com/photo-1519677100203-a0e668c92439?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
-      "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste"
+      "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "countriesCount": 50,
+      "languagesCount": 60,
+      "listedOnTop100": 29
     },
     {
       "id": 6,
@@ -46,7 +61,10 @@
       "subtitle": "O menor e mais jovem continente",
       "imageURL": "https://images.unsplash.com/photo-1624138784614-87fd1b6528f8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2833&q=80",
       "bannerURL": "https://images.unsplash.com/photo-1465056836041-7f43ac27dcb5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1771&q=80",
-      "description": "A Oceania é um continente situado entre os oceanos Índico e Pacífico, a sudeste da Ásia. A maior parte de suas terras fica no Hemisfério Sul do planeta. É composto por 14 países e ilhas e territórios pertencentes a outros países, tanto oceânicos quanto de outros continentes."
+      "description": "A Oceania é um continente situado entre os oceanos Índico e Pacífico, a sudeste da Ásia. A maior parte de suas terras fica no Hemisfério Sul do planeta. É composto por 14 países e ilhas e territórios pertencentes a outros países, tanto oceânicos quanto de outros continentes.",
+      "countriesCount": 14,
+      "languagesCount": 18,
+      "listedOnTop100": 3
     }
   ]
 }
