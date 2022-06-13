@@ -1,4 +1,4 @@
-import Banner from "../components/Banner";
+import Banner from "../components/BannerHomepage";
 import TravelTypes from "../components/TravelTypes";
 import CallToAction from "../components/CallToAction";
 
