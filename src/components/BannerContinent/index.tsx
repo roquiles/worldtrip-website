@@ -8,7 +8,7 @@ interface BannerContinentProps {
 export default function BannerContinent({ continent }: BannerContinentProps) {
   return (
     <Flex
-      bg={`url(${continent.bannerURL})`}
+      bg={`url(${continent?.bannerURL})`}
       bgPosition="center"
       bgSize="cover"
       height={["200px", "500px"]}
@@ -24,7 +24,7 @@ export default function BannerContinent({ continent }: BannerContinentProps) {
         fontSize={[28, 48]}
         textAlign={"center"}
       >
-        {continent.name}
+        {continent?.name}
       </Heading>
     </Flex>
   );
