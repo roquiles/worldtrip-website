@@ -17,12 +17,23 @@ export default function ContinentPage({
       <BannerContinent continent={selectedContinentData} />
       <ContinentInfos continent={selectedContinentData} />
 
-      <Flex direction="column" width="full" maxW="1160px">
-        <Heading width="full" fontWeight="500">
+      <Flex
+        direction="column"
+        width="full"
+        maxW="1160px"
+        paddingX={["16px", "0"]}
+        paddingY={["32px", "0"]}
+      >
+        <Heading width="full" fontWeight="500" fontSize={["24px", "36px"]}>
           Cidades +100
         </Heading>
 
-        <SimpleGrid columns={4} marginY="10">
+        <SimpleGrid
+          columns={[1, 4]}
+          marginY={["5", "10"]}
+          alignSelf={["center", "start"]}
+          gap={["20px", "45px"]}
+        >
           {selectedContinentData.citiesListedOnTop100.map((city) => (
             <CityCard city={city} key={city.name} />
           ))}

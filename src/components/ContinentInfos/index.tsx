@@ -8,48 +8,59 @@ interface ContinentInfosProps {
 
 export default function ContinentInfos({ continent }: ContinentInfosProps) {
   return (
-    <Flex align="center" gap="70px">
-      <Container width="600px">
+    <Flex direction={["column", "row"]} align="center" gap={["16px", "70px"]}>
+      <Container width={["full", "600px"]}>
         <Text
           textAlign="justify"
-          lineHeight="32px"
-          fontSize="20px"
-          marginY="80px"
+          lineHeight={["21px", "32px"]}
+          fontSize={["14px", "20px"]}
+          marginY={["24px", "80px"]}
+          marginX={["16px", "0"]}
         >
           {continent.description}
         </Text>
       </Container>
 
-      <SimpleGrid columns={3} spacing="42px">
-        <Flex direction="column" align="center" fontWeight="600">
-          <Text fontSize={48} color="yellow.500">
+      <SimpleGrid
+        columns={3}
+        spacing={["10px", "42px"]}
+        paddingX={["16px", "0"]}
+      >
+        <Flex direction="column" align="center" fontWeight={["400", "600"]}>
+          <Text fontSize={[24, 48]} color="yellow.500" fontWeight="600">
             {continent.countriesCount}
           </Text>
-          <Text fontSize={20}>países</Text>
+          <Text fontSize={[18, 20]}>países</Text>
         </Flex>
 
-        <Flex direction="column" align="center" fontWeight="600">
-          <Text fontSize={48} color="yellow.500">
+        <Flex direction="column" align="center" fontWeight={["400", "600"]}>
+          <Text fontSize={[24, 48]} color="yellow.500" fontWeight="600">
             {continent.languagesCount}
           </Text>
-          <Text fontSize={20}>línguas</Text>
+          <Text fontSize={[18, 20]}>línguas</Text>
         </Flex>
 
-        <Flex direction="column" align="center" fontWeight="600">
-          <Text fontSize={48} fontWeight="600" color="yellow.500">
+        <Flex direction="column" align="center" fontWeight={["400", "600"]}>
+          <Text fontSize={[24, 48]} fontWeight="600" color="yellow.500">
             {continent.listedOnTop100}
           </Text>
-          <Flex align="center" gap="5px">
-            <Text fontSize={20}>cidades +100</Text>
+          <Text
+            fontSize={[18, 20]}
+            textAlign="center"
+            display="flex"
+            alignItems="center"
+            gap={["0", "5px"]}
+          >
+            cidades +100
             <Tooltip
               hasArrow
               label="Cities ranked in The 100 Most Popular City Destinations list"
             >
-              <Text color="gray.500">
+              <Text color="gray.500" fontSize={["10px", "16px"]}>
                 <FiInfo />
               </Text>
             </Tooltip>
-          </Flex>
+          </Text>
         </Flex>
       </SimpleGrid>
     </Flex>

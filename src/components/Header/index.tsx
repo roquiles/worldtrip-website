@@ -26,7 +26,7 @@ export default function Header() {
               icon={<IoIosArrowBack />}
               fontSize="20px"
               left={0}
-              ml="8"
+              ml={["0", "8"]}
               marginY="auto"
               bg="transparent"
             />

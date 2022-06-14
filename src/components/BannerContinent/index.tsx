@@ -11,13 +11,19 @@ export default function BannerContinent({ continent }: BannerContinentProps) {
       bg={`url(${continent.bannerURL})`}
       bgPosition="center"
       bgSize="cover"
-      height="500px"
-      width="1440px"
+      height={["200px", "500px"]}
+      width={["full", "1440px"]}
       paddingX="140px"
-      paddingBottom={59}
-      align="end"
+      paddingBottom={[0, 59]}
+      align={["center", "end"]}
+      justify={["center", "start"]}
     >
-      <Heading color="gray.50" fontWeight="600" fontSize={48}>
+      <Heading
+        color="gray.50"
+        fontWeight="600"
+        fontSize={[28, 48]}
+        textAlign={"center"}
+      >
         {continent.name}
       </Heading>
     </Flex>
