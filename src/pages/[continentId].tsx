@@ -34,7 +34,7 @@ export default function ContinentPage({
           alignSelf={["center", "start"]}
           gap={["20px", "45px"]}
         >
-          {selectedContinentData.citiesListedOnTop100.map((city) => (
+          {selectedContinentData?.citiesListedOnTop100.map((city) => (
             <CityCard city={city} key={city.name} />
           ))}
         </SimpleGrid>
