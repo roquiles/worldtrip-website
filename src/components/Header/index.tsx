@@ -1,7 +1,7 @@
-import { Flex, IconButton, Center } from "@chakra-ui/react";
+import { Flex, IconButton, Center, Box } from "@chakra-ui/react";
 import { useRouter } from "next/router";
-import logoImage from "../../assets/logo.svg";
 import Image from "next/image";
+import logoImage from "../../assets/logo.svg";
 import { IoIosArrowBack } from "react-icons/io";
 import Link from "next/link";
 
@@ -14,8 +14,8 @@ export default function Header() {
       <Flex
         justify="center"
         align="center"
-        h="100px"
-        w="1440px"
+        h={["50px", "100px"]}
+        w={["375px", "1440px"]}
         position="relative"
       >
         {Object.keys(currentPath).length !== 0 && (
@@ -33,7 +33,9 @@ export default function Header() {
           </Link>
         )}
 
-        <Image src={logoImage} alt="logo" width="186px" />
+        <Box width={["81px", "186px"]}>
+          <Image src={logoImage} alt="logo" />
+        </Box>
       </Flex>
     </Center>
   );

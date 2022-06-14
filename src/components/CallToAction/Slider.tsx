@@ -16,7 +16,7 @@ export default function Slider() {
   const { continents } = useContext(ContinentsContext);
 
   return (
-    <Box w="1240px" h="450px" overflow="hidden">
+    <Box w={["full", "1240px"]} h={["250", "450px"]} overflow="hidden">
       <Swiper
         modules={[Navigation, EffectFade, Pagination]}
         navigation
@@ -32,8 +32,8 @@ export default function Slider() {
               position="relative"
               align="center"
               justify="center"
-              height="450px"
-              w="1240px"
+              height={["250px", "450px"]}
+              w={["full", "1240px"]}
             >
               <img
                 src={continent.imageURL}
@@ -48,10 +48,18 @@ export default function Slider() {
                   alignItems="center"
                   flexDirection="column"
                 >
-                  <Text fontWeight="700" fontSize="48px" color="gray.50">
+                  <Text
+                    fontWeight="700"
+                    fontSize={["24px", "48px"]}
+                    color="gray.50"
+                  >
                     {continent.name}
                   </Text>
-                  <Text color="gray.200" fontSize="24px" fontWeight="700">
+                  <Text
+                    color="gray.200"
+                    fontSize={["14px", "24px"]}
+                    fontWeight="700"
+                  >
                     {continent.subtitle}
                   </Text>
                 </ChakraLink>
